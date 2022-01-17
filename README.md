@@ -13,20 +13,68 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rabee Adel</h1>
-<h3 align="center">junior software engineer from Egypt</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=junior+software+engineer+from+Egypt;Competitive+Programmer;ACPC+2020+Finalist;%20Data%20+structures%20|%20Algorithms%20|object%20+oriented%20+programming%20;%20Database%20+Design%20and%20SQL%20Query%20;&center=true&width=800&height=60"></a>
+</p>
 
-- 📫 How to reach me **rabeeadelbeabesh@gmail.com**
-
-
-<p align="left"><img src="https://www.codeguru.com/wp-content/uploads/2003/02/C-tutorials-300x300.jpg" alt="C++" width="60" height="60"/> <img src="https://cdn.arageek.com/magazine/2021/04/encyclopedia-%D9%85%D8%A7-%D9%87%D9%8A-%D8%AC%D8%A7%D9%81%D8%A7-Java.jpg" alt="java" width="40" height="50"/> <img src="https://tecswan.com/wp-content/uploads/2021/03/python-socket-programming.jpg" alt="phython" width="60" height="60"/> <img src="https://torako.wakarimasen.moe/file/torako/g/image/1618/40/1618406273130.png" alt="kotlin" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://pbs.twimg.com/media/ErRqv7gXEAI5DOA.png" alt="SQL" width="60" height="60"/>
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeeadelbeabesh&layout=compact&hide=html" alt="rabeeadelbeabesh" /></p>
+## 📊 Github Stats
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabeeadelbeabesh&show_icons=true" alt="rabeeadelbeabesh" /></p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=rabeeadelbeabesh&label=Profile%20views&color=0e75b6&style=plastic" alt="rabeeadelbeabesh" /> 
+</p>
+<br>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeeadelbeabesh&theme=algolia" alt="rabeeadelbeabesh" />	
+<a href="https://github.com/ahmed1amen">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeeadelbeabesh&theme=algolia" /></a>	</p>
+<br>
+<p >
+<a href="https://github.com/rabeeadelbeabesh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabeeadelbeabesh&count_private=true&theme=algolia" /> </a></p>
+<br><br><br><br><br><br><br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rabee-adel-287517187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rabee-adel-287517187" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100004191377620" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100004191377620" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Rabee_Adel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Rabee_Adel" height="30" width="40" /></a>
+## 👀 My Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Rabee_Adel"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	<a href="https://www.hackerrank.com/Rabee_Adel"><img src="https://i.ibb.co/YWFwss3/Cvc.png" alt="hackerrank"/></a>
+	<a href="https://icpc.global/ICPCID/4HLFWCBC0R6X"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>
+</p>
+
+## Preferred Languages.
+<div>
+<img src="https://img.shields.io/badge/c++-%2300ADD8.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%23777BB4.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-darkgreen?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+
+
+
+## Databases
+<div>
+<img src="https://img.shields.io/badge/mysql-black?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sql-%234ea94b.svg?&style=for-the-badge&logo=SQL&logoColor=white"/>
+</div>
+
+
+## Design
+<img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
+
+
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+<a href="https://github.com/rabeeadelbeabesh"><img alt="rabeeadelbeabesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rabeeadelbeabesh&custom_title=rabeeadelbeabesh's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+  
+  
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+<p align="center">
+	<a href="mailto:rabeeadelbeabesh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/rabeeadelbeabesh"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/rabee-adel-287517187/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100004191377620"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/</a>
+
 </p>
