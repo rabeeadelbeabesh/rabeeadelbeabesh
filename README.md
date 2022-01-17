@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabeeadelbeabesh&count_private=true&theme=algolia" /> </a></p>
 <br><br><br><br><br><br><br><br>
 
-## 👀 My Competitive Programming Profiles
+##Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/Rabee_Adel"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
