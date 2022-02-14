@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ##  My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Rabee_Adel"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <!--<a href="https://codeforces.com/profile/Rabee_Adel"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>-->
 	<a href="https://www.hackerrank.com/Rabee_Adel"><img src="https://i.ibb.co/YWFwss3/Cvc.png" alt="hackerrank"/></a>
 	<a href="https://icpc.global/ICPCID/4HLFWCBC0R6X"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>
 </p>
