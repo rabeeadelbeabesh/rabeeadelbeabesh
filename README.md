@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rabee Adel</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=junior+software+engineer+from+Egypt;Competitive+Programmer;ACPC+2020+Finalist;%20Data%20+structures%20|%20Algorithms%20|object%20+oriented%20+programming%20;%20Database%20+Design%20and%20SQL%20Query%20;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=software+engineer+from+Egypt;Competitive+Programmer;ACPC+2020+Finalist;%20Data%20+structures%20|%20Algorithms%20|object%20+oriented%20+programming%20;%20Database%20+Design%20and%20SQL%20Query%20;&center=true&width=800&height=60"></a>
 </p>
 
 ## 📊 Github Stats
